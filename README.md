@@ -15,6 +15,7 @@ This project analyzes a **Maternal Health dataset** with the goal of uncovering 
 ##  Dataset overview
 - Rows & Columns: 453 rows  & 7 columns
 #### Original Features:
+![](https://github.com/christopherstanleyobinna-rgb/Maternal-Health-Risk-Analysis/blob/main/Orignal_%20dataset.jpg)
 - Age
 - Systolic Blood Pressure (SBP)
 - Diastolic Blood Pressure (DBP)
