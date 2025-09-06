@@ -39,7 +39,7 @@ This expanded the dataset from 7 columns to 13 columns for deeper analysis.
   
 ## Data Preparation
 ![(https://raw.githubusercontent.com/username/repo/main/images/overview_Dashboard.jpg)](https://github.com/christopherstanleyobinna-rgb/Maternal-Health-Risk-Analysis/blob/main/Data_preparation.jpg)
-Steps taken during preparation:
+#### Steps taken during preparation:
 - Cleaned column headers and standardized formats.
 - Removed duplicate records.
 - Handled missing values appropriately.
@@ -58,6 +58,7 @@ Steps taken during preparation:
 - Distribution of Temperature (Normal, Elevated, Fever, High Fever).
 - Heart Rate categorization.
 ## Key insight
+![](https://github.com/christopherstanleyobinna-rgb/Maternal-Health-Risk-Analysis/blob/main/Analysis.jpg)
 - Blood Pressure: Most mothers had normal Diastolic BP, but 37% showed high systolic BP, a major contributor to high maternal risk.
 - Temperature: temperature readings among high risk mothers were mostly normal (65.18%) but around 32% of high risk mothers has fever or high fever which suggests it play a significant but not dominant role in maternal health risk
 - Blood Sugar: A combined 100 of high risk mothers has elevated blood sugar (43 prediabetes and 57 are at Diabetes level), highlighting hyperglycemia as a strong risk factor in maternal health complications
