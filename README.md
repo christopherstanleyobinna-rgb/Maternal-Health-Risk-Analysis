@@ -36,8 +36,9 @@ This expanded the dataset from 7 columns to 13 columns for deeper analysis.
 - Excel Functions & Formulas → IF, COUNTIFS, VLOOKUP, nested formulas for categorization.
 - Pivot Tables → Summarization of risk levels across health indicators.
 - Excel Dashboards → Data visualization and interactive reporting
-![](images/DataPreparation.jpg)
+  
 ## Data Preparation
+![(https://raw.githubusercontent.com/username/repo/main/images/overview_Dashboard.jpg)](https://github.com/christopherstanleyobinna-rgb/Maternal-Health-Risk-Analysis/blob/main/Data_preparation.jpg)
 Steps taken during preparation:
 - Cleaned column headers and standardized formats.
 - Removed duplicate records.
