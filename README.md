@@ -24,14 +24,16 @@ This project analyzes a **Maternal Health dataset** with the goal of uncovering 
 - Temperature
 - Risk Level
 ![](Orignal_dataset.jpg)
+
 #### New Features Created:
 - Age group
 - SBP Category (Low, Normal, High)
 - DBP Category (Low, Normal, High)
 - Blood Sugar Category (Low, Normal, High)
 - Temperature Category (Normal, Elevated, Fever, High Fever)
-- Heart Rate Category (Low, Normal, High)
-This expanded the dataset from 7 columns to 13 columns for deeper analysis.
+- Heart Rate Category (Low, Normal, High).
+  This expanded the dataset from 7 columns to 13 columns for deeper analysis.
+  
 ## Tools and techniques
 - Power Query Editor → Data cleaning, removing duplicates, handling missing values.
 - Excel Functions & Formulas → IF, COUNTIFS, VLOOKUP, nested formulas for categorization.
@@ -65,6 +67,7 @@ This expanded the dataset from 7 columns to 13 columns for deeper analysis.
 - Blood Sugar: A combined 100 of high risk mothers has elevated blood sugar (43 prediabetes and 57 are at Diabetes level), highlighting hyperglycemia as a strong risk factor in maternal health complications
 - Heart Rate: Surprisingly, all 112 high-risk mothers recorded normal heart rates, suggesting HR alone may not be a strong indicator of risk.
   ## Recommendations
+  ![](https://github.com/christopherstanleyobinna-rgb/Maternal-Health-Risk-Analysis/blob/main/maternal%20image.jpg)
 - Clinical Monitoring: Continuous tracking of blood pressure and temperature for expectant mothers.
 - Preventive Care: Health education programs on nutrition and lifestyle to reduce risk factors.
 - Early Intervention: Regular maternal checkups to detect abnormal BP, BS, or temperature early.
