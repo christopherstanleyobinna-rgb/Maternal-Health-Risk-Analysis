@@ -51,6 +51,7 @@ Steps taken during preparation:
 - Age group comparison against risk levels.
 - Proportion of high risk mothers with High or Very High Blood sugar.
 #### Dashboard 2 – Health Indicators Analysis
+![(https://raw.githubusercontent.com/username/repo/main/images/overview_Dashboard.jpg)](https://github.com/christopherstanleyobinna-rgb/Maternal-Health-Risk-Analysis/blob/main/key_indicators.jpg)
 - Classification of Systolic & Diastolic BP into Low, Normal, High.
 - Categorization of Blood Sugar into Low, Normal, High.
 - Distribution of Temperature (Normal, Elevated, Fever, High Fever).
