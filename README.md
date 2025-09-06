@@ -46,7 +46,7 @@ Steps taken during preparation:
 - Verified ranges to ensure accuracy of health classifications.
  ## Analysis and Dashboard
 #### Dashboard 1 – Maternal Risk Overview
-![](https://raw.githubusercontent.com/username/repo/main/images/overview_Dashboard.jpg)
+![(https://raw.githubusercontent.com/username/repo/main/images/overview_Dashboard.jpg)](https://github.com/christopherstanleyobinna-rgb/Maternal-Health-Risk-Analysis/blob/main/overview%20_dashboard.jpg)
 - Distribution of mothers across risk levels (Low, Mid, High).
 - Age group comparison against risk levels.
 - Proportion of high risk mothers with High or Very High Blood sugar.
