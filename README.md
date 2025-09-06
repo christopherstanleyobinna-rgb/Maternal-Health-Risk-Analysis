@@ -22,7 +22,7 @@ This project analyzes a **Maternal Health dataset** with the goal of uncovering 
 - Heart Rate
 - Temperature
 - Risk Level
-  ![](Orignal_dataset.jpg)
+![](Orignal_dataset.jpg)
 #### New Features Created:
 - Age group
 - SBP Category (Low, Normal, High)
